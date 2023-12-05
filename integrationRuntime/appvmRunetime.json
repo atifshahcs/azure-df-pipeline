@@ -1,0 +1,6 @@
+{
+	"name": "appvmRunetime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
